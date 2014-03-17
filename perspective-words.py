@@ -1,6 +1,6 @@
-word1 = "SETH"
-word2 = "BLING"
-word3 = "RULES"
+word1 = neiko
+word2 = pete
+word3 = rules
 
 # This filter creates a bunch of blocks that appear as three different
 # words from three different directions. Feel free to use and modify this
